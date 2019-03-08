@@ -1,4 +1,4 @@
-api.bintray.com
+https://api.bintray.com
 auth.docker.io
 cloud.weave.works
 dl.bintray.com
